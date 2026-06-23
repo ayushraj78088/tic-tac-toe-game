@@ -8,6 +8,10 @@ body {
     text-align: center;
 }
 
+.main-container {
+    margin-top: 50px;
+}
+
 .container {
     height: 70vh;
     display: flex;
