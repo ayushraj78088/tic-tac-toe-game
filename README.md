@@ -53,8 +53,7 @@ project/
 ├── index.html
 ├── style.css
 ├── script.js
-└── screenshots/
-    └── tic-tac-toe.png
+└── tic-tac-toe.png
 ```
 
 ## 💻 Running the Project Locally
